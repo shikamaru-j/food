@@ -72,3 +72,45 @@ body {
     font-family: 'Montserrat', sans-serif;
 
 }
+/* davitske seqtsia 5  */
+.bck-image {
+    background-image: url(../IMG/background\ bid.png);
+    height: 853px;
+    width: 1920px;
+    background-position: center;
+}
+.date {
+    display: flex;
+    width: 449px;
+    height: 112px;
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 27.5px;
+}
+.box-5 {
+    color: #FFFFFF;
+    padding-top: 257px;
+    padding-left: 235px;
+}
+.box-5 h1 {
+    columns: #FFFFFF;
+    font-size: 60px;
+}
+.box-5 h4 {
+    font-size: 25px;
+    color: #FFFFFF;
+    margin-top: 24px;
+}
+.box-5 h5 {
+    color: #FFFFFF;
+    font-size: 22px;
+    margin-top: 10.5px;
+}
+.foni {
+    width: 85px;
+    height: 85px;
+    background-color: #FFAA00;
+    font-size: 47px;
+    line-height: 85px;
+    margin-bottom: 5px;
+}
