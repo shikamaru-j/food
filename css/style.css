@@ -115,3 +115,44 @@ body {
     margin-bottom: 5px;
 }
 /* daviwkhe 6 seqcia  */
+.quote {
+    font-size: 70px;
+    color: #A80E0E;
+
+}
+.imo{
+    width: 670px;
+    height: 636px;
+}
+section h1 {
+    font-size: 40px;
+    color: #A80E0E;
+    margin-top: 145px;
+    text-align: center;
+}
+section h6 {
+    font-size: 20px;
+    color: #382E36;
+    margin-top: 62px;
+    text-align: center;
+}
+.boxbox {
+    width: 734px;
+    padding-top: 96px;
+    
+}
+.flex {
+display: flex;
+justify-content: space-between;
+margin-top: 126px;
+}
+.section-0 {
+    width: 1450px;
+    margin: 0 auto;
+}
+.boxbox p {
+    padding-top: 55px;
+    line-height: 40px;
+    font-size: 20px;
+    color: #000000;
+}
